@@ -50,9 +50,9 @@ Create bulleted lists using asterisks, hyphens or plus signs at the start of eac
 
 This is what they look like:
 
-* item 1
-* item 2
-* item 3
+* asterisk 1
+* asterisk 2
+* asterisk 3
 
 ##Lists of steps
 
