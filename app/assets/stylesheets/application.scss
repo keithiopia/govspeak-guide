@@ -1,0 +1,56 @@
+@import "grid_layout.scss";
+
+#global-header-bar,
+#global-breadcrumb,
+#global-cookie-message,
+#user-satisfaction-survey,
+#search,
+.report-a-problem-toggle-wrapper,
+.report-a-problem-container,
+.footer-categories,
+.footer-meta {
+	display: none !important;
+}
+
+.header-logo {
+	a {
+		display: none;
+	}
+
+	&:after {
+		content: "Govspeak Guide" !important;
+		height: 30px;
+		width: 100%;
+		margin: 0 15px;
+		font-weight: bold;
+		font-size: 30px;
+		color: #fff;
+		line-height: 1;
+	}
+}
+
+.outer-block {
+  @include outer-block;
+}
+
+.inner-block {
+  @include inner-block;
+}
+
+.guide {
+	border-top: 1px solid #aaa;
+	padding: 2em 0;
+
+	.inner-block {
+		// Enforce a reasonable line length, roughly equiv to GOV.UK behaviour
+		// @TODO: Use something from FET (or template) to have the exact same
+		// behaviour, rather than roughly immitating with a specific value
+		max-width: 42em;
+	}
+}
+
+.validation-warning {
+	background: red;
+	color: #fff;
+	padding: .5em 1em;
+}
