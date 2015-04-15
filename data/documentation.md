@@ -19,7 +19,7 @@ This is what they look like:
 
 ###This is an H3 subheading
 
-Don't skip heading levels - eg an H2 to an H4 (missing out H3). Don't insert an H1 anywhere.
+Don't skip heading levels - ie straight to an H3. Don't insert an H1 anywhere.
 
 ##Bold text
 
