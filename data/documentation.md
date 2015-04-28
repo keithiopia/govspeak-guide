@@ -58,11 +58,11 @@ This is what they look like:
 
 We only use numbered lists for describing steps as part of a process. Do this by adding:
 
-`s1. Add numbers.`
+    s1. Add numbers.
 
-`s2. Check numbers.`
+    s2. Check numbers.
 
-`s3. Love numbers.`
+    s3. Love numbers.
 
 This looks like:
 
@@ -177,7 +177,7 @@ Use these to sum up content in the 'quick answer' format in 1 or 2 sentences at 
 
   $! This is an answer summary. $!
 
-There's an example of what this looks like in the quick answer on [Child Benefit rates](https://www.gov.uk/child-benefit-rates).
+There's an example of what this looks like in the [Child Benefit rates](https://www.gov.uk/child-benefit-rates) quick answer.
 
 ##Acronyms
 
