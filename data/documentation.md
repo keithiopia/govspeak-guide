@@ -58,11 +58,11 @@ This is what they look like:
 
 We only use numbered lists for describing steps as part of a process. Do this by adding:
 
-    `s1. Add numbers.`
+`s1. Add numbers.`
 
-    `s2. Check numbers.`
+`s2. Check numbers.`
 
-    `s3. Love numbers.`
+`s3. Love numbers.`
 
 This looks like:
 
