@@ -19,7 +19,7 @@ This is what they look like:
 
 ###This is an H3 subheading
 
-Don't skip heading levels - ie straight to an H3. Don't insert an H1 anywhere.
+Don't skip heading levels - in other words, don't jump straight to an H3. Don't insert an H1 anywhere.
 
 ##Bold text
 
@@ -64,7 +64,7 @@ We only use numbered lists for describing steps as part of a process. Do this by
 
 `s3. Love numbers.`
 
-This looks like:
+This example follows house style and looks like:
 
 s1. Add numbers.
 s2. Check numbers.
@@ -105,13 +105,12 @@ This looks like:
 ###External links
 
 For external links, you need to include the full URL with http:// or www:
-Put the full stop within the square brackets if it's the end of a sentence.
 
-    [UK Parliament.](http://www.parliament.uk)
+    [UK Parliament](http://www.parliament.uk).
 
 This looks like:
 
-[UK Parliament.](http://www.parliament.uk)
+[UK Parliament](http://www.parliament.uk).
 
 ###Download links
 
@@ -173,11 +172,13 @@ $E
 
 ##Answer summaries
 
-Use these to sum up content in the 'quick answer' format in 1 or 2 sentences at the top of the page by adding '$!' to the start and end of the text. Don't use this anywhere else, or in any other formats.
+We no longer use this markdown in any new content. 
+
+(You may still come across it in the 'quick answer' format.) 
+
+It looks like this:
 
   $! This is an answer summary. $!
-
-There's an example of what this looks like on the [Child Benefit rates](https://www.gov.uk/child-benefit-rates) quick answer.
 
 ##Acronyms
 
@@ -185,13 +186,13 @@ List these in the following format at the end of the document and all occurrence
 
     *[FCO]: Foreign and Commonwealth Office
 
-This means the full text will appear when users hover of the acronym wherever it occurs on the page.
+This means the full text will appear when users hover over the acronym wherever it occurs on the page.
 
 ###Example of acronym use
 
 Example: PCSO and PCSOs are both in a piece of content.
 
-Always put the longer one first - otherwise PCSOs will pick up the singular only 'Police Community Support Officer'.
+Always put the longer one first in the list - otherwise PCSOs will pick up only the singular 'Police Community Support Officer'.
 
     *[PCSOs]: Police Community Support Officers  
     *[PCSO]: Police Community Support Officer
